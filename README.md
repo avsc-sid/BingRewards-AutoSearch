@@ -1,2 +1,2 @@
-# BingRewards-AutoSearch
-A windows service that schedules an automatic session that searches on bing for microsoft rewards points.
+# BingRewards-AutoSearch ( C# )
+A windows service that schedules an automatic jobs/browser sessions that searche on bing to increase your microsoft rewards points.
